@@ -1,0 +1,7 @@
+C:\Users\azatb\source\repos\Програмирование Шаблон\Модуль 11\Home_work_Module_11]\Home_work_Module_11_2\bin\Debug\Home_work_Module_11_2.exe.config
+C:\Users\azatb\source\repos\Програмирование Шаблон\Модуль 11\Home_work_Module_11]\Home_work_Module_11_2\bin\Debug\Home_work_Module_11_2.exe
+C:\Users\azatb\source\repos\Програмирование Шаблон\Модуль 11\Home_work_Module_11]\Home_work_Module_11_2\bin\Debug\Home_work_Module_11_2.pdb
+C:\Users\azatb\source\repos\Програмирование Шаблон\Модуль 11\Home_work_Module_11]\Home_work_Module_11_2\obj\Debug\Home_work_Module_11_2.csproj.AssemblyReference.cache
+C:\Users\azatb\source\repos\Програмирование Шаблон\Модуль 11\Home_work_Module_11]\Home_work_Module_11_2\obj\Debug\Home_work_Module_11_2.csproj.CoreCompileInputs.cache
+C:\Users\azatb\source\repos\Програмирование Шаблон\Модуль 11\Home_work_Module_11]\Home_work_Module_11_2\obj\Debug\Home_work_Module_11_2.exe
+C:\Users\azatb\source\repos\Програмирование Шаблон\Модуль 11\Home_work_Module_11]\Home_work_Module_11_2\obj\Debug\Home_work_Module_11_2.pdb
